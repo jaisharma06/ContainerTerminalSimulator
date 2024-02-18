@@ -1,0 +1,1205 @@
+Time: 0 min, vessel_1 arrived.
+Time: 0 min, berth_1 assigned to vessel_1.
+Time: 0 min, crane_1 assigned to vessel_1.
+Time: 0.001 min, crane_1 picked up container_1.
+Time: 3.0019999999997804 min, crane_1 has unloaded container_1 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 3.0019999999997804 min, crane_1 picked up container_2.
+Time: 6.002000000000339 min, crane_1 has unloaded container_2 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 6.002000000000339 min, truck_1 has dropped the container_1 at the yard block and is heading back to the terminal.
+Time: 6.003000000000339 min, crane_1 picked up container_3.
+Time: 6.003000000000339 min, truck_1 has reached back to the terminal.
+Time: 9.00200000000045 min, truck_2 has dropped the container_2 at the yard block and is heading back to the terminal.
+Time: 9.00300000000045 min, crane_1 has unloaded container_3 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 9.00300000000045 min, crane_1 picked up container_4.
+Time: 9.00300000000045 min, truck_2 has reached back to the terminal.
+Time: 12.003999999998786 min, crane_1 has unloaded container_4 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 12.003999999998786 min, truck_1 has dropped the container_3 at the yard block and is heading back to the terminal.
+Time: 12.004999999998786 min, crane_1 picked up container_5.
+Time: 12.004999999998786 min, truck_1 has reached back to the terminal.
+Time: 15.004999999997123 min, truck_2 has dropped the container_4 at the yard block and is heading back to the terminal.
+Time: 15.005999999997123 min, crane_1 has unloaded container_5 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 15.005999999997123 min, crane_1 picked up container_6.
+Time: 15.005999999997123 min, truck_2 has reached back to the terminal.
+Time: 18.005999999999023 min, crane_1 has unloaded container_6 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 18.005999999999023 min, truck_1 has dropped the container_5 at the yard block and is heading back to the terminal.
+Time: 18.006999999999024 min, crane_1 picked up container_7.
+Time: 18.006999999999024 min, truck_1 has reached back to the terminal.
+Time: 21.00600000000269 min, truck_2 has dropped the container_6 at the yard block and is heading back to the terminal.
+Time: 21.00700000000269 min, crane_1 has unloaded container_7 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 21.00700000000269 min, crane_1 picked up container_8.
+Time: 21.00700000000269 min, truck_2 has reached back to the terminal.
+Time: 24.007000000006357 min, crane_1 has unloaded container_8 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 24.007000000006357 min, truck_1 has dropped the container_7 at the yard block and is heading back to the terminal.
+Time: 24.00800000000636 min, crane_1 picked up container_9.
+Time: 24.00800000000636 min, truck_1 has reached back to the terminal.
+Time: 27.007000000010024 min, truck_2 has dropped the container_8 at the yard block and is heading back to the terminal.
+Time: 27.008000000010025 min, crane_1 has unloaded container_9 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 27.008000000010025 min, crane_1 picked up container_10.
+Time: 27.008000000010025 min, truck_2 has reached back to the terminal.
+Time: 30.00800000001369 min, crane_1 has unloaded container_10 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 30.00800000001369 min, truck_1 has dropped the container_9 at the yard block and is heading back to the terminal.
+Time: 30.009000000013692 min, crane_1 picked up container_11.
+Time: 30.009000000013692 min, truck_1 has reached back to the terminal.
+Time: 33.00800000001377 min, truck_2 has dropped the container_10 at the yard block and is heading back to the terminal.
+Time: 33.00900000001377 min, crane_1 has unloaded container_11 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 33.00900000001377 min, crane_1 picked up container_12.
+Time: 33.00900000001377 min, truck_2 has reached back to the terminal.
+Time: 36.01000000000678 min, crane_1 has unloaded container_12 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 36.01000000000678 min, truck_1 has dropped the container_11 at the yard block and is heading back to the terminal.
+Time: 36.011000000006774 min, crane_1 picked up container_13.
+Time: 36.011000000006774 min, truck_1 has reached back to the terminal.
+Time: 39.01099999999978 min, truck_2 has dropped the container_12 at the yard block and is heading back to the terminal.
+Time: 39.01199999999978 min, crane_1 has unloaded container_13 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 39.01199999999978 min, crane_1 picked up container_14.
+Time: 39.01199999999978 min, truck_2 has reached back to the terminal.
+Time: 42.012999999992786 min, crane_1 has unloaded container_14 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 42.012999999992786 min, truck_1 has dropped the container_13 at the yard block and is heading back to the terminal.
+Time: 42.013999999992784 min, crane_1 picked up container_15.
+Time: 42.013999999992784 min, truck_1 has reached back to the terminal.
+Time: 45.01399999998579 min, truck_2 has dropped the container_14 at the yard block and is heading back to the terminal.
+Time: 45.01499999998579 min, crane_1 has unloaded container_15 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 45.01499999998579 min, crane_1 picked up container_16.
+Time: 45.01499999998579 min, truck_2 has reached back to the terminal.
+Time: 48.015999999978796 min, crane_1 has unloaded container_16 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 48.015999999978796 min, truck_1 has dropped the container_15 at the yard block and is heading back to the terminal.
+Time: 48.01699999997879 min, crane_1 picked up container_17.
+Time: 48.01699999997879 min, truck_1 has reached back to the terminal.
+Time: 51.0169999999718 min, truck_2 has dropped the container_16 at the yard block and is heading back to the terminal.
+Time: 51.0179999999718 min, crane_1 has unloaded container_17 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 51.0179999999718 min, crane_1 picked up container_18.
+Time: 51.0179999999718 min, truck_2 has reached back to the terminal.
+Time: 54.018999999964805 min, crane_1 has unloaded container_18 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 54.018999999964805 min, truck_1 has dropped the container_17 at the yard block and is heading back to the terminal.
+Time: 54.0199999999648 min, crane_1 picked up container_19.
+Time: 54.0199999999648 min, truck_1 has reached back to the terminal.
+Time: 57.01999999995781 min, truck_2 has dropped the container_18 at the yard block and is heading back to the terminal.
+Time: 57.02099999995781 min, crane_1 has unloaded container_19 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 57.02099999995781 min, crane_1 picked up container_20.
+Time: 57.02099999995781 min, truck_2 has reached back to the terminal.
+Time: 60.021999999950815 min, crane_1 has unloaded container_20 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 60.021999999950815 min, truck_1 has dropped the container_19 at the yard block and is heading back to the terminal.
+Time: 60.02299999995081 min, crane_1 picked up container_21.
+Time: 60.02299999995081 min, truck_1 has reached back to the terminal.
+Time: 60.28070010061064 min, vessel_2 arrived.
+Time: 60.28070010061064 min, berth_2 assigned to vessel_2.
+Time: 60.28070010061064 min, crane_2 assigned to vessel_2.
+Time: 60.28099999995021 min, crane_2 picked up container_1.
+Time: 63.02299999994382 min, truck_2 has dropped the container_20 at the yard block and is heading back to the terminal.
+Time: 63.02399999994382 min, crane_1 has unloaded container_21 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 63.02399999994382 min, crane_1 picked up container_22.
+Time: 63.02399999994382 min, truck_2 has reached back to the terminal.
+Time: 63.28199999994322 min, crane_2 has unloaded container_1 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 63.28199999994322 min, crane_2 picked up container_2.
+Time: 66.0239999999512 min, truck_1 has dropped the container_21 at the yard block and is heading back to the terminal.
+Time: 66.0239999999512 min, crane_1 has unloaded container_22 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 66.0249999999512 min, crane_1 picked up container_23.
+Time: 66.0249999999512 min, truck_1 has reached back to the terminal.
+Time: 66.28199999995243 min, crane_2 has unloaded container_2 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 66.28199999995243 min, crane_2 picked up container_3.
+Time: 66.28199999995243 min, truck_2 has dropped the container_1 at the yard block and is heading back to the terminal.
+Time: 66.28299999995244 min, truck_2 has reached back to the terminal.
+Time: 69.02399999996553 min, truck_3 has dropped the container_22 at the yard block and is heading back to the terminal.
+Time: 69.02499999996553 min, crane_1 has unloaded container_23 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 69.02499999996553 min, truck_3 has reached back to the terminal.
+Time: 69.02599999996553 min, crane_1 picked up container_24.
+Time: 69.28199999996676 min, truck_1 has dropped the container_2 at the yard block and is heading back to the terminal.
+Time: 69.28199999996676 min, crane_2 has unloaded container_3 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 69.28299999996676 min, truck_1 has reached back to the terminal.
+Time: 69.28299999996676 min, crane_2 picked up container_4.
+Time: 72.02499999997985 min, truck_2 has dropped the container_23 at the yard block and is heading back to the terminal.
+Time: 72.02599999997986 min, crane_1 has unloaded container_24 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 72.02599999997986 min, crane_1 picked up container_25.
+Time: 72.02599999997986 min, truck_2 has reached back to the terminal.
+Time: 72.28199999998108 min, truck_3 has dropped the container_3 at the yard block and is heading back to the terminal.
+Time: 72.28299999998109 min, crane_2 has unloaded container_4 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 72.28299999998109 min, crane_2 picked up container_5.
+Time: 72.28299999998109 min, truck_3 has reached back to the terminal.
+Time: 75.02599999999418 min, truck_1 has dropped the container_24 at the yard block and is heading back to the terminal.
+Time: 75.02599999999418 min, crane_1 has unloaded container_25 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 75.02699999999419 min, crane_1 picked up container_26.
+Time: 75.02699999999419 min, truck_1 has reached back to the terminal.
+Time: 75.28299999999541 min, crane_2 has unloaded container_5 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 75.28299999999541 min, crane_2 picked up container_6.
+Time: 75.28299999999541 min, truck_2 has dropped the container_4 at the yard block and is heading back to the terminal.
+Time: 75.28399999999542 min, truck_2 has reached back to the terminal.
+Time: 78.02600000000851 min, truck_3 has dropped the container_25 at the yard block and is heading back to the terminal.
+Time: 78.02700000000851 min, crane_1 has unloaded container_26 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 78.02700000000851 min, truck_3 has reached back to the terminal.
+Time: 78.02800000000852 min, crane_1 picked up container_27.
+Time: 78.28300000000974 min, truck_1 has dropped the container_5 at the yard block and is heading back to the terminal.
+Time: 78.28300000000974 min, crane_2 has unloaded container_6 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 78.28400000000974 min, truck_1 has reached back to the terminal.
+Time: 78.28400000000974 min, crane_2 picked up container_7.
+Time: 81.02700000002284 min, truck_2 has dropped the container_26 at the yard block and is heading back to the terminal.
+Time: 81.02800000002284 min, crane_1 has unloaded container_27 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 81.02800000002284 min, crane_1 picked up container_28.
+Time: 81.02800000002284 min, truck_2 has reached back to the terminal.
+Time: 81.28300000002406 min, truck_3 has dropped the container_6 at the yard block and is heading back to the terminal.
+Time: 81.28400000002407 min, crane_2 has unloaded container_7 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 81.28400000002407 min, crane_2 picked up container_8.
+Time: 81.28400000002407 min, truck_3 has reached back to the terminal.
+Time: 84.02800000003717 min, truck_1 has dropped the container_27 at the yard block and is heading back to the terminal.
+Time: 84.02800000003717 min, crane_1 has unloaded container_28 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 84.02900000003717 min, crane_1 picked up container_29.
+Time: 84.02900000003717 min, truck_1 has reached back to the terminal.
+Time: 84.28400000003839 min, crane_2 has unloaded container_8 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 84.28400000003839 min, crane_2 picked up container_9.
+Time: 84.28400000003839 min, truck_2 has dropped the container_7 at the yard block and is heading back to the terminal.
+Time: 84.2850000000384 min, truck_2 has reached back to the terminal.
+Time: 87.02800000005149 min, truck_3 has dropped the container_28 at the yard block and is heading back to the terminal.
+Time: 87.0290000000515 min, crane_1 has unloaded container_29 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 87.0290000000515 min, truck_3 has reached back to the terminal.
+Time: 87.0300000000515 min, crane_1 picked up container_30.
+Time: 87.28400000005271 min, truck_1 has dropped the container_8 at the yard block and is heading back to the terminal.
+Time: 87.28400000005271 min, crane_2 has unloaded container_9 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 87.28500000005272 min, truck_1 has reached back to the terminal.
+Time: 87.28500000005272 min, crane_2 picked up container_10.
+Time: 90.02900000006582 min, truck_2 has dropped the container_29 at the yard block and is heading back to the terminal.
+Time: 90.03000000006583 min, crane_1 has unloaded container_30 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 90.03000000006583 min, crane_1 picked up container_31.
+Time: 90.03000000006583 min, truck_2 has reached back to the terminal.
+Time: 90.28400000006704 min, truck_3 has dropped the container_9 at the yard block and is heading back to the terminal.
+Time: 90.28500000006704 min, crane_2 has unloaded container_10 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 90.28500000006704 min, crane_2 picked up container_11.
+Time: 90.28500000006704 min, truck_3 has reached back to the terminal.
+Time: 93.03000000008015 min, truck_1 has dropped the container_30 at the yard block and is heading back to the terminal.
+Time: 93.03000000008015 min, crane_1 has unloaded container_31 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 93.03100000008016 min, crane_1 picked up container_32.
+Time: 93.03100000008016 min, truck_1 has reached back to the terminal.
+Time: 93.28500000008137 min, crane_2 has unloaded container_11 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 93.28500000008137 min, crane_2 picked up container_12.
+Time: 93.28500000008137 min, truck_2 has dropped the container_10 at the yard block and is heading back to the terminal.
+Time: 93.28600000008137 min, truck_2 has reached back to the terminal.
+Time: 96.03000000009447 min, truck_3 has dropped the container_31 at the yard block and is heading back to the terminal.
+Time: 96.03100000009448 min, crane_1 has unloaded container_32 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 96.03100000009448 min, truck_3 has reached back to the terminal.
+Time: 96.03200000009448 min, crane_1 picked up container_33.
+Time: 96.28500000009569 min, truck_1 has dropped the container_11 at the yard block and is heading back to the terminal.
+Time: 96.28500000009569 min, crane_2 has unloaded container_12 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 96.2860000000957 min, truck_1 has reached back to the terminal.
+Time: 96.2860000000957 min, crane_2 picked up container_13.
+Time: 99.0310000001088 min, truck_2 has dropped the container_32 at the yard block and is heading back to the terminal.
+Time: 99.03200000010881 min, crane_1 has unloaded container_33 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 99.03200000010881 min, crane_1 picked up container_34.
+Time: 99.03200000010881 min, truck_2 has reached back to the terminal.
+Time: 99.28500000011002 min, truck_3 has dropped the container_12 at the yard block and is heading back to the terminal.
+Time: 99.28600000011002 min, crane_2 has unloaded container_13 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 99.28600000011002 min, crane_2 picked up container_14.
+Time: 99.28600000011002 min, truck_3 has reached back to the terminal.
+Time: 102.03200000012313 min, truck_1 has dropped the container_33 at the yard block and is heading back to the terminal.
+Time: 102.03200000012313 min, crane_1 has unloaded container_34 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 102.03300000012314 min, crane_1 picked up container_35.
+Time: 102.03300000012314 min, truck_1 has reached back to the terminal.
+Time: 102.28600000012435 min, crane_2 has unloaded container_14 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 102.28600000012435 min, crane_2 picked up container_15.
+Time: 102.28600000012435 min, truck_2 has dropped the container_13 at the yard block and is heading back to the terminal.
+Time: 102.28700000012435 min, truck_2 has reached back to the terminal.
+Time: 105.03200000013746 min, truck_3 has dropped the container_34 at the yard block and is heading back to the terminal.
+Time: 105.03300000013746 min, crane_1 has unloaded container_35 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 105.03300000013746 min, truck_3 has reached back to the terminal.
+Time: 105.03400000013747 min, crane_1 picked up container_36.
+Time: 105.28600000013867 min, truck_1 has dropped the container_14 at the yard block and is heading back to the terminal.
+Time: 105.28600000013867 min, crane_2 has unloaded container_15 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 105.28700000013868 min, truck_1 has reached back to the terminal.
+Time: 105.28700000013868 min, crane_2 picked up container_16.
+Time: 108.03300000015179 min, truck_2 has dropped the container_35 at the yard block and is heading back to the terminal.
+Time: 108.03400000015179 min, crane_1 has unloaded container_36 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 108.03400000015179 min, crane_1 picked up container_37.
+Time: 108.03400000015179 min, truck_2 has reached back to the terminal.
+Time: 108.286000000153 min, truck_3 has dropped the container_15 at the yard block and is heading back to the terminal.
+Time: 108.287000000153 min, crane_2 has unloaded container_16 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 108.287000000153 min, crane_2 picked up container_17.
+Time: 108.287000000153 min, truck_3 has reached back to the terminal.
+Time: 111.03400000016612 min, truck_1 has dropped the container_36 at the yard block and is heading back to the terminal.
+Time: 111.03400000016612 min, crane_1 has unloaded container_37 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 111.03500000016612 min, crane_1 picked up container_38.
+Time: 111.03500000016612 min, truck_1 has reached back to the terminal.
+Time: 111.28700000016732 min, crane_2 has unloaded container_17 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 111.28700000016732 min, crane_2 picked up container_18.
+Time: 111.28700000016732 min, truck_2 has dropped the container_16 at the yard block and is heading back to the terminal.
+Time: 111.28800000016733 min, truck_2 has reached back to the terminal.
+Time: 114.03400000018044 min, truck_3 has dropped the container_37 at the yard block and is heading back to the terminal.
+Time: 114.03500000018045 min, crane_1 has unloaded container_38 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 114.03500000018045 min, truck_3 has reached back to the terminal.
+Time: 114.03600000018045 min, crane_1 picked up container_39.
+Time: 114.28700000018165 min, truck_1 has dropped the container_17 at the yard block and is heading back to the terminal.
+Time: 114.28700000018165 min, crane_2 has unloaded container_18 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 114.28800000018165 min, truck_1 has reached back to the terminal.
+Time: 114.28800000018165 min, crane_2 picked up container_19.
+Time: 117.03500000019477 min, truck_2 has dropped the container_38 at the yard block and is heading back to the terminal.
+Time: 117.03600000019478 min, crane_1 has unloaded container_39 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 117.03600000019478 min, crane_1 picked up container_40.
+Time: 117.03600000019478 min, truck_2 has reached back to the terminal.
+Time: 117.28700000019597 min, truck_3 has dropped the container_18 at the yard block and is heading back to the terminal.
+Time: 117.28800000019598 min, crane_2 has unloaded container_19 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 117.28800000019598 min, crane_2 picked up container_20.
+Time: 117.28800000019598 min, truck_3 has reached back to the terminal.
+Time: 120.0360000002091 min, truck_1 has dropped the container_39 at the yard block and is heading back to the terminal.
+Time: 120.0360000002091 min, crane_1 has unloaded container_40 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 120.0370000002091 min, crane_1 picked up container_41.
+Time: 120.0370000002091 min, truck_1 has reached back to the terminal.
+Time: 120.2880000002103 min, crane_2 has unloaded container_20 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 120.2880000002103 min, crane_2 picked up container_21.
+Time: 120.2880000002103 min, truck_2 has dropped the container_19 at the yard block and is heading back to the terminal.
+Time: 120.28900000021031 min, truck_2 has reached back to the terminal.
+Time: 123.03600000022342 min, truck_3 has dropped the container_40 at the yard block and is heading back to the terminal.
+Time: 123.03700000022343 min, crane_1 has unloaded container_41 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 123.03700000022343 min, truck_3 has reached back to the terminal.
+Time: 123.03800000022343 min, crane_1 picked up container_42.
+Time: 123.28800000022463 min, truck_1 has dropped the container_20 at the yard block and is heading back to the terminal.
+Time: 123.28800000022463 min, crane_2 has unloaded container_21 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 123.28900000022463 min, truck_1 has reached back to the terminal.
+Time: 123.28900000022463 min, crane_2 picked up container_22.
+Time: 126.03700000023775 min, truck_2 has dropped the container_41 at the yard block and is heading back to the terminal.
+Time: 126.03800000023776 min, crane_1 has unloaded container_42 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 126.03800000023776 min, crane_1 picked up container_43.
+Time: 126.03800000023776 min, truck_2 has reached back to the terminal.
+Time: 126.28800000023895 min, truck_3 has dropped the container_21 at the yard block and is heading back to the terminal.
+Time: 126.28900000023896 min, crane_2 has unloaded container_22 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 126.28900000023896 min, crane_2 picked up container_23.
+Time: 126.28900000023896 min, truck_3 has reached back to the terminal.
+Time: 129.03800000025208 min, truck_1 has dropped the container_42 at the yard block and is heading back to the terminal.
+Time: 129.03800000025208 min, crane_1 has unloaded container_43 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 129.0390000002521 min, crane_1 picked up container_44.
+Time: 129.0390000002521 min, truck_1 has reached back to the terminal.
+Time: 129.28900000025328 min, crane_2 has unloaded container_23 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 129.28900000025328 min, crane_2 picked up container_24.
+Time: 129.28900000025328 min, truck_2 has dropped the container_22 at the yard block and is heading back to the terminal.
+Time: 129.2900000002533 min, truck_2 has reached back to the terminal.
+Time: 132.0380000002664 min, truck_3 has dropped the container_43 at the yard block and is heading back to the terminal.
+Time: 132.0390000002664 min, crane_1 has unloaded container_44 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 132.0390000002664 min, truck_3 has reached back to the terminal.
+Time: 132.04000000026642 min, crane_1 picked up container_45.
+Time: 132.2890000002676 min, truck_1 has dropped the container_23 at the yard block and is heading back to the terminal.
+Time: 132.2890000002676 min, crane_2 has unloaded container_24 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 132.2900000002676 min, truck_1 has reached back to the terminal.
+Time: 132.2900000002676 min, crane_2 picked up container_25.
+Time: 135.03900000028074 min, truck_2 has dropped the container_44 at the yard block and is heading back to the terminal.
+Time: 135.04000000028074 min, crane_1 has unloaded container_45 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 135.04000000028074 min, crane_1 picked up container_46.
+Time: 135.04000000028074 min, truck_2 has reached back to the terminal.
+Time: 135.28900000028193 min, truck_3 has dropped the container_24 at the yard block and is heading back to the terminal.
+Time: 135.29000000028194 min, crane_2 has unloaded container_25 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 135.29000000028194 min, crane_2 picked up container_26.
+Time: 135.29000000028194 min, truck_3 has reached back to the terminal.
+Time: 138.04000000029507 min, truck_1 has dropped the container_45 at the yard block and is heading back to the terminal.
+Time: 138.04000000029507 min, crane_1 has unloaded container_46 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 138.04100000029507 min, crane_1 picked up container_47.
+Time: 138.04100000029507 min, truck_1 has reached back to the terminal.
+Time: 138.29000000029626 min, crane_2 has unloaded container_26 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 138.29000000029626 min, crane_2 picked up container_27.
+Time: 138.29000000029626 min, truck_2 has dropped the container_25 at the yard block and is heading back to the terminal.
+Time: 138.29100000029626 min, truck_2 has reached back to the terminal.
+Time: 141.0400000003094 min, truck_3 has dropped the container_46 at the yard block and is heading back to the terminal.
+Time: 141.0410000003094 min, crane_1 has unloaded container_47 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 141.0410000003094 min, truck_3 has reached back to the terminal.
+Time: 141.0420000003094 min, crane_1 picked up container_48.
+Time: 141.29000000031058 min, truck_1 has dropped the container_26 at the yard block and is heading back to the terminal.
+Time: 141.29000000031058 min, crane_2 has unloaded container_27 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 141.2910000003106 min, truck_1 has reached back to the terminal.
+Time: 141.2910000003106 min, crane_2 picked up container_28.
+Time: 144.04100000032372 min, truck_2 has dropped the container_47 at the yard block and is heading back to the terminal.
+Time: 144.04200000032372 min, crane_1 has unloaded container_48 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 144.04200000032372 min, crane_1 picked up container_49.
+Time: 144.04200000032372 min, truck_2 has reached back to the terminal.
+Time: 144.2900000003249 min, truck_3 has dropped the container_27 at the yard block and is heading back to the terminal.
+Time: 144.2910000003249 min, crane_2 has unloaded container_28 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 144.2910000003249 min, crane_2 picked up container_29.
+Time: 144.2910000003249 min, truck_3 has reached back to the terminal.
+Time: 147.04200000033805 min, truck_1 has dropped the container_48 at the yard block and is heading back to the terminal.
+Time: 147.04200000033805 min, crane_1 has unloaded container_49 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 147.04300000033805 min, crane_1 picked up container_50.
+Time: 147.04300000033805 min, truck_1 has reached back to the terminal.
+Time: 147.29100000033924 min, crane_2 has unloaded container_29 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 147.29100000033924 min, crane_2 picked up container_30.
+Time: 147.29100000033924 min, truck_2 has dropped the container_28 at the yard block and is heading back to the terminal.
+Time: 147.29200000033924 min, truck_2 has reached back to the terminal.
+Time: 150.04200000035237 min, truck_3 has dropped the container_49 at the yard block and is heading back to the terminal.
+Time: 150.04300000035238 min, crane_1 has unloaded container_50 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 150.04300000035238 min, truck_3 has reached back to the terminal.
+Time: 150.04400000035238 min, crane_1 picked up container_51.
+Time: 150.29100000035356 min, truck_1 has dropped the container_29 at the yard block and is heading back to the terminal.
+Time: 150.29100000035356 min, crane_2 has unloaded container_30 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 150.29200000035357 min, truck_1 has reached back to the terminal.
+Time: 150.29200000035357 min, crane_2 picked up container_31.
+Time: 153.0430000003667 min, truck_2 has dropped the container_50 at the yard block and is heading back to the terminal.
+Time: 153.0440000003667 min, crane_1 has unloaded container_51 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 153.0440000003667 min, crane_1 picked up container_52.
+Time: 153.0440000003667 min, truck_2 has reached back to the terminal.
+Time: 153.2910000003679 min, truck_3 has dropped the container_30 at the yard block and is heading back to the terminal.
+Time: 153.2920000003679 min, crane_2 has unloaded container_31 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 153.2920000003679 min, crane_2 picked up container_32.
+Time: 153.2920000003679 min, truck_3 has reached back to the terminal.
+Time: 156.04400000038103 min, truck_1 has dropped the container_51 at the yard block and is heading back to the terminal.
+Time: 156.04400000038103 min, crane_1 has unloaded container_52 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 156.04500000038104 min, crane_1 picked up container_53.
+Time: 156.04500000038104 min, truck_1 has reached back to the terminal.
+Time: 156.29200000038222 min, crane_2 has unloaded container_32 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 156.29200000038222 min, crane_2 picked up container_33.
+Time: 156.29200000038222 min, truck_2 has dropped the container_31 at the yard block and is heading back to the terminal.
+Time: 156.29300000038222 min, truck_2 has reached back to the terminal.
+Time: 159.04400000039536 min, truck_3 has dropped the container_52 at the yard block and is heading back to the terminal.
+Time: 159.04500000039536 min, crane_1 has unloaded container_53 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 159.04500000039536 min, truck_3 has reached back to the terminal.
+Time: 159.04600000039537 min, crane_1 picked up container_54.
+Time: 159.29200000039654 min, truck_1 has dropped the container_32 at the yard block and is heading back to the terminal.
+Time: 159.29200000039654 min, crane_2 has unloaded container_33 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 159.29300000039655 min, truck_1 has reached back to the terminal.
+Time: 159.29300000039655 min, crane_2 picked up container_34.
+Time: 162.0450000004097 min, truck_2 has dropped the container_53 at the yard block and is heading back to the terminal.
+Time: 162.0460000004097 min, crane_1 has unloaded container_54 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 162.0460000004097 min, crane_1 picked up container_55.
+Time: 162.0460000004097 min, truck_2 has reached back to the terminal.
+Time: 162.29200000041087 min, truck_3 has dropped the container_33 at the yard block and is heading back to the terminal.
+Time: 162.29300000041087 min, crane_2 has unloaded container_34 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 162.29300000041087 min, crane_2 picked up container_35.
+Time: 162.29300000041087 min, truck_3 has reached back to the terminal.
+Time: 165.04600000042402 min, truck_1 has dropped the container_54 at the yard block and is heading back to the terminal.
+Time: 165.04600000042402 min, crane_1 has unloaded container_55 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 165.04700000042402 min, crane_1 picked up container_56.
+Time: 165.04700000042402 min, truck_1 has reached back to the terminal.
+Time: 165.2930000004252 min, crane_2 has unloaded container_35 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 165.2930000004252 min, crane_2 picked up container_36.
+Time: 165.2930000004252 min, truck_2 has dropped the container_34 at the yard block and is heading back to the terminal.
+Time: 165.2940000004252 min, truck_2 has reached back to the terminal.
+Time: 168.04600000043834 min, truck_3 has dropped the container_55 at the yard block and is heading back to the terminal.
+Time: 168.04700000043835 min, crane_1 has unloaded container_56 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 168.04700000043835 min, truck_3 has reached back to the terminal.
+Time: 168.04800000043835 min, crane_1 picked up container_57.
+Time: 168.29300000043952 min, truck_1 has dropped the container_35 at the yard block and is heading back to the terminal.
+Time: 168.29300000043952 min, crane_2 has unloaded container_36 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 168.29400000043952 min, truck_1 has reached back to the terminal.
+Time: 168.29400000043952 min, crane_2 picked up container_37.
+Time: 171.04700000045267 min, truck_2 has dropped the container_56 at the yard block and is heading back to the terminal.
+Time: 171.04800000045267 min, crane_1 has unloaded container_57 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 171.04800000045267 min, crane_1 picked up container_58.
+Time: 171.04800000045267 min, truck_2 has reached back to the terminal.
+Time: 171.29300000045384 min, truck_3 has dropped the container_36 at the yard block and is heading back to the terminal.
+Time: 171.29400000045385 min, crane_2 has unloaded container_37 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 171.29400000045385 min, crane_2 picked up container_38.
+Time: 171.29400000045385 min, truck_3 has reached back to the terminal.
+Time: 174.048000000467 min, truck_1 has dropped the container_57 at the yard block and is heading back to the terminal.
+Time: 174.048000000467 min, crane_1 has unloaded container_58 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 174.049000000467 min, crane_1 picked up container_59.
+Time: 174.049000000467 min, truck_1 has reached back to the terminal.
+Time: 174.29400000046817 min, crane_2 has unloaded container_38 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 174.29400000046817 min, crane_2 picked up container_39.
+Time: 174.29400000046817 min, truck_2 has dropped the container_37 at the yard block and is heading back to the terminal.
+Time: 174.29500000046818 min, truck_2 has reached back to the terminal.
+Time: 177.04800000048132 min, truck_3 has dropped the container_58 at the yard block and is heading back to the terminal.
+Time: 177.04900000048133 min, crane_1 has unloaded container_59 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 177.04900000048133 min, truck_3 has reached back to the terminal.
+Time: 177.05000000048133 min, crane_1 picked up container_60.
+Time: 177.2940000004825 min, truck_1 has dropped the container_38 at the yard block and is heading back to the terminal.
+Time: 177.2940000004825 min, crane_2 has unloaded container_39 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 177.2950000004825 min, truck_1 has reached back to the terminal.
+Time: 177.2950000004825 min, crane_2 picked up container_40.
+Time: 180.04900000049565 min, truck_2 has dropped the container_59 at the yard block and is heading back to the terminal.
+Time: 180.05000000049566 min, crane_1 has unloaded container_60 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 180.05000000049566 min, crane_1 picked up container_61.
+Time: 180.05000000049566 min, truck_2 has reached back to the terminal.
+Time: 180.29400000049682 min, truck_3 has dropped the container_39 at the yard block and is heading back to the terminal.
+Time: 180.29500000049683 min, crane_2 has unloaded container_40 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 180.29500000049683 min, crane_2 picked up container_41.
+Time: 180.29500000049683 min, truck_3 has reached back to the terminal.
+Time: 183.05000000050998 min, truck_1 has dropped the container_60 at the yard block and is heading back to the terminal.
+Time: 183.05000000050998 min, crane_1 has unloaded container_61 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 183.05100000051 min, crane_1 picked up container_62.
+Time: 183.05100000051 min, truck_1 has reached back to the terminal.
+Time: 183.29500000051115 min, crane_2 has unloaded container_41 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 183.29500000051115 min, crane_2 picked up container_42.
+Time: 183.29500000051115 min, truck_2 has dropped the container_40 at the yard block and is heading back to the terminal.
+Time: 183.29600000051116 min, truck_2 has reached back to the terminal.
+Time: 186.0500000005243 min, truck_3 has dropped the container_61 at the yard block and is heading back to the terminal.
+Time: 186.0510000005243 min, crane_1 has unloaded container_62 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 186.0510000005243 min, truck_3 has reached back to the terminal.
+Time: 186.05200000052432 min, crane_1 picked up container_63.
+Time: 186.29500000052548 min, truck_1 has dropped the container_41 at the yard block and is heading back to the terminal.
+Time: 186.29500000052548 min, crane_2 has unloaded container_42 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 186.29600000052548 min, truck_1 has reached back to the terminal.
+Time: 186.29600000052548 min, crane_2 picked up container_43.
+Time: 189.05100000053864 min, truck_2 has dropped the container_62 at the yard block and is heading back to the terminal.
+Time: 189.05200000053864 min, crane_1 has unloaded container_63 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 189.05200000053864 min, crane_1 picked up container_64.
+Time: 189.05200000053864 min, truck_2 has reached back to the terminal.
+Time: 189.2950000005398 min, truck_3 has dropped the container_42 at the yard block and is heading back to the terminal.
+Time: 189.2960000005398 min, crane_2 has unloaded container_43 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 189.2960000005398 min, crane_2 picked up container_44.
+Time: 189.2960000005398 min, truck_3 has reached back to the terminal.
+Time: 192.05200000055297 min, truck_1 has dropped the container_63 at the yard block and is heading back to the terminal.
+Time: 192.05200000055297 min, crane_1 has unloaded container_64 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 192.05300000055297 min, crane_1 picked up container_65.
+Time: 192.05300000055297 min, truck_1 has reached back to the terminal.
+Time: 192.29600000055413 min, crane_2 has unloaded container_44 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 192.29600000055413 min, crane_2 picked up container_45.
+Time: 192.29600000055413 min, truck_2 has dropped the container_43 at the yard block and is heading back to the terminal.
+Time: 192.29700000055414 min, truck_2 has reached back to the terminal.
+Time: 195.0520000005673 min, truck_3 has dropped the container_64 at the yard block and is heading back to the terminal.
+Time: 195.0530000005673 min, crane_1 has unloaded container_65 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 195.0530000005673 min, truck_3 has reached back to the terminal.
+Time: 195.0540000005673 min, crane_1 picked up container_66.
+Time: 195.29600000056845 min, truck_1 has dropped the container_44 at the yard block and is heading back to the terminal.
+Time: 195.29600000056845 min, crane_2 has unloaded container_45 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 195.29700000056846 min, truck_1 has reached back to the terminal.
+Time: 195.29700000056846 min, crane_2 picked up container_46.
+Time: 198.05300000058162 min, truck_2 has dropped the container_65 at the yard block and is heading back to the terminal.
+Time: 198.05400000058162 min, crane_1 has unloaded container_66 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 198.05400000058162 min, crane_1 picked up container_67.
+Time: 198.05400000058162 min, truck_2 has reached back to the terminal.
+Time: 198.29600000058278 min, truck_3 has dropped the container_45 at the yard block and is heading back to the terminal.
+Time: 198.29700000058278 min, crane_2 has unloaded container_46 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 198.29700000058278 min, crane_2 picked up container_47.
+Time: 198.29700000058278 min, truck_3 has reached back to the terminal.
+Time: 201.05400000059595 min, truck_1 has dropped the container_66 at the yard block and is heading back to the terminal.
+Time: 201.05400000059595 min, crane_1 has unloaded container_67 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 201.05500000059595 min, crane_1 picked up container_68.
+Time: 201.05500000059595 min, truck_1 has reached back to the terminal.
+Time: 201.2970000005971 min, crane_2 has unloaded container_47 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 201.2970000005971 min, crane_2 picked up container_48.
+Time: 201.2970000005971 min, truck_2 has dropped the container_46 at the yard block and is heading back to the terminal.
+Time: 201.2980000005971 min, truck_2 has reached back to the terminal.
+Time: 204.05400000061027 min, truck_3 has dropped the container_67 at the yard block and is heading back to the terminal.
+Time: 204.05500000061028 min, crane_1 has unloaded container_68 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 204.05500000061028 min, truck_3 has reached back to the terminal.
+Time: 204.05600000061028 min, crane_1 picked up container_69.
+Time: 204.29700000061143 min, truck_1 has dropped the container_47 at the yard block and is heading back to the terminal.
+Time: 204.29700000061143 min, crane_2 has unloaded container_48 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 204.29800000061144 min, truck_1 has reached back to the terminal.
+Time: 204.29800000061144 min, crane_2 picked up container_49.
+Time: 207.0550000006246 min, truck_2 has dropped the container_68 at the yard block and is heading back to the terminal.
+Time: 207.0560000006246 min, crane_1 has unloaded container_69 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 207.0560000006246 min, crane_1 picked up container_70.
+Time: 207.0560000006246 min, truck_2 has reached back to the terminal.
+Time: 207.29700000062576 min, truck_3 has dropped the container_48 at the yard block and is heading back to the terminal.
+Time: 207.29800000062576 min, crane_2 has unloaded container_49 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 207.29800000062576 min, crane_2 picked up container_50.
+Time: 207.29800000062576 min, truck_3 has reached back to the terminal.
+Time: 210.05600000063893 min, truck_1 has dropped the container_69 at the yard block and is heading back to the terminal.
+Time: 210.05600000063893 min, crane_1 has unloaded container_70 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 210.05700000063894 min, crane_1 picked up container_71.
+Time: 210.05700000063894 min, truck_1 has reached back to the terminal.
+Time: 210.2980000006401 min, crane_2 has unloaded container_50 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 210.2980000006401 min, crane_2 picked up container_51.
+Time: 210.2980000006401 min, truck_2 has dropped the container_49 at the yard block and is heading back to the terminal.
+Time: 210.2990000006401 min, truck_2 has reached back to the terminal.
+Time: 213.05600000065326 min, truck_3 has dropped the container_70 at the yard block and is heading back to the terminal.
+Time: 213.05700000065326 min, crane_1 has unloaded container_71 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 213.05700000065326 min, truck_3 has reached back to the terminal.
+Time: 213.05800000065327 min, crane_1 picked up container_72.
+Time: 213.2980000006544 min, truck_1 has dropped the container_50 at the yard block and is heading back to the terminal.
+Time: 213.2980000006544 min, crane_2 has unloaded container_51 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 213.29900000065442 min, truck_1 has reached back to the terminal.
+Time: 213.29900000065442 min, crane_2 picked up container_52.
+Time: 216.05700000066759 min, truck_2 has dropped the container_71 at the yard block and is heading back to the terminal.
+Time: 216.0580000006676 min, crane_1 has unloaded container_72 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 216.0580000006676 min, crane_1 picked up container_73.
+Time: 216.0580000006676 min, truck_2 has reached back to the terminal.
+Time: 216.29800000066874 min, truck_3 has dropped the container_51 at the yard block and is heading back to the terminal.
+Time: 216.29900000066874 min, crane_2 has unloaded container_52 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 216.29900000066874 min, crane_2 picked up container_53.
+Time: 216.29900000066874 min, truck_3 has reached back to the terminal.
+Time: 219.05800000068191 min, truck_1 has dropped the container_72 at the yard block and is heading back to the terminal.
+Time: 219.05800000068191 min, crane_1 has unloaded container_73 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 219.05900000068192 min, crane_1 picked up container_74.
+Time: 219.05900000068192 min, truck_1 has reached back to the terminal.
+Time: 219.29900000068307 min, crane_2 has unloaded container_53 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 219.29900000068307 min, crane_2 picked up container_54.
+Time: 219.29900000068307 min, truck_2 has dropped the container_52 at the yard block and is heading back to the terminal.
+Time: 219.30000000068307 min, truck_2 has reached back to the terminal.
+Time: 222.05800000069624 min, truck_3 has dropped the container_73 at the yard block and is heading back to the terminal.
+Time: 222.05900000069624 min, crane_1 has unloaded container_74 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 222.05900000069624 min, truck_3 has reached back to the terminal.
+Time: 222.06000000069625 min, crane_1 picked up container_75.
+Time: 222.2990000006974 min, truck_1 has dropped the container_53 at the yard block and is heading back to the terminal.
+Time: 222.2990000006974 min, crane_2 has unloaded container_54 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 222.3000000006974 min, truck_1 has reached back to the terminal.
+Time: 222.3000000006974 min, crane_2 picked up container_55.
+Time: 225.05900000071057 min, truck_2 has dropped the container_74 at the yard block and is heading back to the terminal.
+Time: 225.06000000071057 min, crane_1 has unloaded container_75 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 225.06000000071057 min, crane_1 picked up container_76.
+Time: 225.06000000071057 min, truck_2 has reached back to the terminal.
+Time: 225.29900000071171 min, truck_3 has dropped the container_54 at the yard block and is heading back to the terminal.
+Time: 225.30000000071172 min, crane_2 has unloaded container_55 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 225.30000000071172 min, crane_2 picked up container_56.
+Time: 225.30000000071172 min, truck_3 has reached back to the terminal.
+Time: 228.0600000007249 min, truck_1 has dropped the container_75 at the yard block and is heading back to the terminal.
+Time: 228.0600000007249 min, crane_1 has unloaded container_76 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 228.0610000007249 min, crane_1 picked up container_77.
+Time: 228.0610000007249 min, truck_1 has reached back to the terminal.
+Time: 228.30000000072604 min, crane_2 has unloaded container_56 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 228.30000000072604 min, crane_2 picked up container_57.
+Time: 228.30000000072604 min, truck_2 has dropped the container_55 at the yard block and is heading back to the terminal.
+Time: 228.30100000072605 min, truck_2 has reached back to the terminal.
+Time: 231.06000000073922 min, truck_3 has dropped the container_76 at the yard block and is heading back to the terminal.
+Time: 231.06100000073923 min, crane_1 has unloaded container_77 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 231.06100000073923 min, truck_3 has reached back to the terminal.
+Time: 231.06200000073923 min, crane_1 picked up container_78.
+Time: 231.30000000074037 min, truck_1 has dropped the container_56 at the yard block and is heading back to the terminal.
+Time: 231.30000000074037 min, crane_2 has unloaded container_57 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 231.30100000074037 min, truck_1 has reached back to the terminal.
+Time: 231.30100000074037 min, crane_2 picked up container_58.
+Time: 234.06100000075355 min, truck_2 has dropped the container_77 at the yard block and is heading back to the terminal.
+Time: 234.06200000075356 min, crane_1 has unloaded container_78 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 234.06200000075356 min, crane_1 picked up container_79.
+Time: 234.06200000075356 min, truck_2 has reached back to the terminal.
+Time: 234.3000000007547 min, truck_3 has dropped the container_57 at the yard block and is heading back to the terminal.
+Time: 234.3010000007547 min, crane_2 has unloaded container_58 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 234.3010000007547 min, crane_2 picked up container_59.
+Time: 234.3010000007547 min, truck_3 has reached back to the terminal.
+Time: 237.06200000076788 min, truck_1 has dropped the container_78 at the yard block and is heading back to the terminal.
+Time: 237.06200000076788 min, crane_1 has unloaded container_79 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 237.0630000007679 min, crane_1 picked up container_80.
+Time: 237.0630000007679 min, truck_1 has reached back to the terminal.
+Time: 237.30100000076902 min, crane_2 has unloaded container_59 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 237.30100000076902 min, crane_2 picked up container_60.
+Time: 237.30100000076902 min, truck_2 has dropped the container_58 at the yard block and is heading back to the terminal.
+Time: 237.30200000076903 min, truck_2 has reached back to the terminal.
+Time: 240.0620000007822 min, truck_3 has dropped the container_79 at the yard block and is heading back to the terminal.
+Time: 240.0630000007822 min, crane_1 has unloaded container_80 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 240.0630000007822 min, truck_3 has reached back to the terminal.
+Time: 240.06400000078222 min, crane_1 picked up container_81.
+Time: 240.30100000078335 min, truck_1 has dropped the container_59 at the yard block and is heading back to the terminal.
+Time: 240.30100000078335 min, crane_2 has unloaded container_60 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 240.30200000078335 min, truck_1 has reached back to the terminal.
+Time: 240.30200000078335 min, crane_2 picked up container_61.
+Time: 243.06300000079654 min, truck_2 has dropped the container_80 at the yard block and is heading back to the terminal.
+Time: 243.06400000079654 min, crane_1 has unloaded container_81 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 243.06400000079654 min, crane_1 picked up container_82.
+Time: 243.06400000079654 min, truck_2 has reached back to the terminal.
+Time: 243.30100000079767 min, truck_3 has dropped the container_60 at the yard block and is heading back to the terminal.
+Time: 243.30200000079768 min, crane_2 has unloaded container_61 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 243.30200000079768 min, crane_2 picked up container_62.
+Time: 243.30200000079768 min, truck_3 has reached back to the terminal.
+Time: 246.06400000081086 min, truck_1 has dropped the container_81 at the yard block and is heading back to the terminal.
+Time: 246.06400000081086 min, crane_1 has unloaded container_82 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 246.06500000081087 min, crane_1 picked up container_83.
+Time: 246.06500000081087 min, truck_1 has reached back to the terminal.
+Time: 246.302000000812 min, crane_2 has unloaded container_62 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 246.302000000812 min, crane_2 picked up container_63.
+Time: 246.302000000812 min, truck_2 has dropped the container_61 at the yard block and is heading back to the terminal.
+Time: 246.303000000812 min, truck_2 has reached back to the terminal.
+Time: 249.0640000008252 min, truck_3 has dropped the container_82 at the yard block and is heading back to the terminal.
+Time: 249.0650000008252 min, crane_1 has unloaded container_83 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 249.0650000008252 min, truck_3 has reached back to the terminal.
+Time: 249.0660000008252 min, crane_1 picked up container_84.
+Time: 249.30200000082633 min, truck_1 has dropped the container_62 at the yard block and is heading back to the terminal.
+Time: 249.30200000082633 min, crane_2 has unloaded container_63 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 249.30300000082633 min, truck_1 has reached back to the terminal.
+Time: 249.30300000082633 min, crane_2 picked up container_64.
+Time: 252.06500000083952 min, truck_2 has dropped the container_83 at the yard block and is heading back to the terminal.
+Time: 252.06600000083952 min, crane_1 has unloaded container_84 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 252.06600000083952 min, crane_1 picked up container_85.
+Time: 252.06600000083952 min, truck_2 has reached back to the terminal.
+Time: 252.30200000084065 min, truck_3 has dropped the container_63 at the yard block and is heading back to the terminal.
+Time: 252.30300000084065 min, crane_2 has unloaded container_64 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 252.30300000084065 min, crane_2 picked up container_65.
+Time: 252.30300000084065 min, truck_3 has reached back to the terminal.
+Time: 255.06600000085385 min, truck_1 has dropped the container_84 at the yard block and is heading back to the terminal.
+Time: 255.06600000085385 min, crane_1 has unloaded container_85 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 255.06700000085385 min, crane_1 picked up container_86.
+Time: 255.06700000085385 min, truck_1 has reached back to the terminal.
+Time: 255.30300000085498 min, crane_2 has unloaded container_65 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 255.30300000085498 min, crane_2 picked up container_66.
+Time: 255.30300000085498 min, truck_2 has dropped the container_64 at the yard block and is heading back to the terminal.
+Time: 255.30400000085498 min, truck_2 has reached back to the terminal.
+Time: 258.0670000008094 min, truck_3 has dropped the container_85 at the yard block and is heading back to the terminal.
+Time: 258.0680000008094 min, crane_1 has unloaded container_86 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 258.0680000008094 min, truck_3 has reached back to the terminal.
+Time: 258.06900000080935 min, crane_1 picked up container_87.
+Time: 258.3040000008038 min, truck_1 has dropped the container_65 at the yard block and is heading back to the terminal.
+Time: 258.3040000008038 min, crane_2 has unloaded container_66 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 258.3050000008038 min, truck_1 has reached back to the terminal.
+Time: 258.3050000008038 min, crane_2 picked up container_67.
+Time: 261.0690000007384 min, truck_2 has dropped the container_86 at the yard block and is heading back to the terminal.
+Time: 261.0700000007384 min, crane_1 has unloaded container_87 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 261.0700000007384 min, crane_1 picked up container_88.
+Time: 261.0700000007384 min, truck_2 has reached back to the terminal.
+Time: 261.30500000073283 min, truck_3 has dropped the container_66 at the yard block and is heading back to the terminal.
+Time: 261.3060000007328 min, crane_2 has unloaded container_67 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 261.3060000007328 min, crane_2 picked up container_68.
+Time: 261.3060000007328 min, truck_3 has reached back to the terminal.
+Time: 264.0710000006674 min, truck_1 has dropped the container_87 at the yard block and is heading back to the terminal.
+Time: 264.0710000006674 min, crane_1 has unloaded container_88 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 264.0720000006674 min, crane_1 picked up container_89.
+Time: 264.0720000006674 min, truck_1 has reached back to the terminal.
+Time: 264.30700000066184 min, crane_2 has unloaded container_68 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 264.30700000066184 min, crane_2 picked up container_69.
+Time: 264.30700000066184 min, truck_2 has dropped the container_67 at the yard block and is heading back to the terminal.
+Time: 264.3080000006618 min, truck_2 has reached back to the terminal.
+Time: 267.07200000059646 min, truck_3 has dropped the container_88 at the yard block and is heading back to the terminal.
+Time: 267.07300000059644 min, crane_1 has unloaded container_89 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 267.07300000059644 min, truck_3 has reached back to the terminal.
+Time: 267.0740000005964 min, crane_1 picked up container_90.
+Time: 267.3080000005909 min, truck_1 has dropped the container_68 at the yard block and is heading back to the terminal.
+Time: 267.3080000005909 min, crane_2 has unloaded container_69 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 267.30900000059086 min, truck_1 has reached back to the terminal.
+Time: 267.30900000059086 min, crane_2 picked up container_70.
+Time: 270.0740000005255 min, truck_2 has dropped the container_89 at the yard block and is heading back to the terminal.
+Time: 270.07500000052545 min, crane_1 has unloaded container_90 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 270.07500000052545 min, crane_1 picked up container_91.
+Time: 270.07500000052545 min, truck_2 has reached back to the terminal.
+Time: 270.3090000005199 min, truck_3 has dropped the container_69 at the yard block and is heading back to the terminal.
+Time: 270.3100000005199 min, crane_2 has unloaded container_70 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 270.3100000005199 min, crane_2 picked up container_71.
+Time: 270.3100000005199 min, truck_3 has reached back to the terminal.
+Time: 273.0760000004545 min, truck_1 has dropped the container_90 at the yard block and is heading back to the terminal.
+Time: 273.0760000004545 min, crane_1 has unloaded container_91 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 273.07700000045446 min, crane_1 picked up container_92.
+Time: 273.07700000045446 min, truck_1 has reached back to the terminal.
+Time: 273.3110000004489 min, crane_2 has unloaded container_71 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 273.3110000004489 min, crane_2 picked up container_72.
+Time: 273.3110000004489 min, truck_2 has dropped the container_70 at the yard block and is heading back to the terminal.
+Time: 273.3120000004489 min, truck_2 has reached back to the terminal.
+Time: 276.0770000003835 min, truck_3 has dropped the container_91 at the yard block and is heading back to the terminal.
+Time: 276.0780000003835 min, crane_1 has unloaded container_92 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 276.0780000003835 min, truck_3 has reached back to the terminal.
+Time: 276.0790000003835 min, crane_1 picked up container_93.
+Time: 276.31200000037796 min, truck_1 has dropped the container_71 at the yard block and is heading back to the terminal.
+Time: 276.31200000037796 min, crane_2 has unloaded container_72 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 276.31300000037794 min, truck_1 has reached back to the terminal.
+Time: 276.31300000037794 min, crane_2 picked up container_73.
+Time: 279.07900000031253 min, truck_2 has dropped the container_92 at the yard block and is heading back to the terminal.
+Time: 279.0800000003125 min, crane_1 has unloaded container_93 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 279.0800000003125 min, crane_1 picked up container_94.
+Time: 279.0800000003125 min, truck_2 has reached back to the terminal.
+Time: 279.313000000307 min, truck_3 has dropped the container_72 at the yard block and is heading back to the terminal.
+Time: 279.314000000307 min, crane_2 has unloaded container_73 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 279.314000000307 min, crane_2 picked up container_74.
+Time: 279.314000000307 min, truck_3 has reached back to the terminal.
+Time: 282.08100000024154 min, truck_1 has dropped the container_93 at the yard block and is heading back to the terminal.
+Time: 282.08100000024154 min, crane_1 has unloaded container_94 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 282.0820000002415 min, crane_1 picked up container_95.
+Time: 282.0820000002415 min, truck_1 has reached back to the terminal.
+Time: 282.315000000236 min, crane_2 has unloaded container_74 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 282.315000000236 min, crane_2 picked up container_75.
+Time: 282.315000000236 min, truck_2 has dropped the container_73 at the yard block and is heading back to the terminal.
+Time: 282.316000000236 min, truck_2 has reached back to the terminal.
+Time: 285.0820000001706 min, truck_3 has dropped the container_94 at the yard block and is heading back to the terminal.
+Time: 285.08300000017056 min, crane_1 has unloaded container_95 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 285.08300000017056 min, truck_3 has reached back to the terminal.
+Time: 285.08400000017053 min, crane_1 picked up container_96.
+Time: 285.31600000016505 min, truck_1 has dropped the container_74 at the yard block and is heading back to the terminal.
+Time: 285.31600000016505 min, crane_2 has unloaded container_75 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 285.317000000165 min, truck_1 has reached back to the terminal.
+Time: 285.317000000165 min, crane_2 picked up container_76.
+Time: 288.0840000000996 min, truck_2 has dropped the container_95 at the yard block and is heading back to the terminal.
+Time: 288.08500000009957 min, crane_1 has unloaded container_96 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 288.08500000009957 min, crane_1 picked up container_97.
+Time: 288.08500000009957 min, truck_2 has reached back to the terminal.
+Time: 288.3170000000941 min, truck_3 has dropped the container_75 at the yard block and is heading back to the terminal.
+Time: 288.31800000009406 min, crane_2 has unloaded container_76 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 288.31800000009406 min, crane_2 picked up container_77.
+Time: 288.31800000009406 min, truck_3 has reached back to the terminal.
+Time: 291.0860000000286 min, truck_1 has dropped the container_96 at the yard block and is heading back to the terminal.
+Time: 291.0860000000286 min, crane_1 has unloaded container_97 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 291.0870000000286 min, crane_1 picked up container_98.
+Time: 291.0870000000286 min, truck_1 has reached back to the terminal.
+Time: 291.3190000000231 min, crane_2 has unloaded container_77 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 291.3190000000231 min, crane_2 picked up container_78.
+Time: 291.3190000000231 min, truck_2 has dropped the container_76 at the yard block and is heading back to the terminal.
+Time: 291.3200000000231 min, truck_2 has reached back to the terminal.
+Time: 294.08699999995764 min, truck_3 has dropped the container_97 at the yard block and is heading back to the terminal.
+Time: 294.0879999999576 min, crane_1 has unloaded container_98 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 294.0879999999576 min, truck_3 has reached back to the terminal.
+Time: 294.0889999999576 min, crane_1 picked up container_99.
+Time: 294.31999999995213 min, truck_1 has dropped the container_77 at the yard block and is heading back to the terminal.
+Time: 294.31999999995213 min, crane_2 has unloaded container_78 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 294.3209999999521 min, truck_1 has reached back to the terminal.
+Time: 294.3209999999521 min, crane_2 picked up container_79.
+Time: 297.08899999988665 min, truck_2 has dropped the container_98 at the yard block and is heading back to the terminal.
+Time: 297.08999999988663 min, crane_1 has unloaded container_99 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 297.08999999988663 min, crane_1 picked up container_100.
+Time: 297.08999999988663 min, truck_2 has reached back to the terminal.
+Time: 297.32099999988117 min, truck_3 has dropped the container_78 at the yard block and is heading back to the terminal.
+Time: 297.32199999988114 min, crane_2 has unloaded container_79 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 297.32199999988114 min, crane_2 picked up container_80.
+Time: 297.32199999988114 min, truck_3 has reached back to the terminal.
+Time: 300.09099999981566 min, truck_1 has dropped the container_99 at the yard block and is heading back to the terminal.
+Time: 300.09099999981566 min, crane_1 has unloaded container_100 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 300.09199999981564 min, crane_1 picked up container_101.
+Time: 300.09199999981564 min, truck_1 has reached back to the terminal.
+Time: 300.3229999998102 min, crane_2 has unloaded container_80 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 300.3229999998102 min, crane_2 picked up container_81.
+Time: 300.3229999998102 min, truck_2 has dropped the container_79 at the yard block and is heading back to the terminal.
+Time: 300.32399999981016 min, truck_2 has reached back to the terminal.
+Time: 303.0919999997447 min, truck_3 has dropped the container_100 at the yard block and is heading back to the terminal.
+Time: 303.0929999997447 min, crane_1 has unloaded container_101 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 303.0929999997447 min, truck_3 has reached back to the terminal.
+Time: 303.09399999974465 min, crane_1 picked up container_102.
+Time: 303.3239999997392 min, truck_1 has dropped the container_80 at the yard block and is heading back to the terminal.
+Time: 303.3239999997392 min, crane_2 has unloaded container_81 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 303.3249999997392 min, truck_1 has reached back to the terminal.
+Time: 303.3249999997392 min, crane_2 picked up container_82.
+Time: 306.0939999996737 min, truck_2 has dropped the container_101 at the yard block and is heading back to the terminal.
+Time: 306.0949999996737 min, crane_1 has unloaded container_102 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 306.0949999996737 min, crane_1 picked up container_103.
+Time: 306.0949999996737 min, truck_2 has reached back to the terminal.
+Time: 306.32499999966825 min, truck_3 has dropped the container_81 at the yard block and is heading back to the terminal.
+Time: 306.3259999996682 min, crane_2 has unloaded container_82 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 306.3259999996682 min, crane_2 picked up container_83.
+Time: 306.3259999996682 min, truck_3 has reached back to the terminal.
+Time: 309.0959999996027 min, truck_1 has dropped the container_102 at the yard block and is heading back to the terminal.
+Time: 309.0959999996027 min, crane_1 has unloaded container_103 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 309.0969999996027 min, crane_1 picked up container_104.
+Time: 309.0969999996027 min, truck_1 has reached back to the terminal.
+Time: 309.32699999959726 min, crane_2 has unloaded container_83 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 309.32699999959726 min, crane_2 picked up container_84.
+Time: 309.32699999959726 min, truck_2 has dropped the container_82 at the yard block and is heading back to the terminal.
+Time: 309.32799999959724 min, truck_2 has reached back to the terminal.
+Time: 312.09699999953176 min, truck_3 has dropped the container_103 at the yard block and is heading back to the terminal.
+Time: 312.09799999953174 min, crane_1 has unloaded container_104 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 312.09799999953174 min, truck_3 has reached back to the terminal.
+Time: 312.0989999995317 min, crane_1 picked up container_105.
+Time: 312.3279999995263 min, truck_1 has dropped the container_83 at the yard block and is heading back to the terminal.
+Time: 312.3279999995263 min, crane_2 has unloaded container_84 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 312.3289999995263 min, truck_1 has reached back to the terminal.
+Time: 312.3289999995263 min, crane_2 picked up container_85.
+Time: 315.0989999994608 min, truck_2 has dropped the container_104 at the yard block and is heading back to the terminal.
+Time: 315.09999999946075 min, crane_1 has unloaded container_105 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 315.09999999946075 min, crane_1 picked up container_106.
+Time: 315.09999999946075 min, truck_2 has reached back to the terminal.
+Time: 315.32899999945533 min, truck_3 has dropped the container_84 at the yard block and is heading back to the terminal.
+Time: 315.3299999994553 min, crane_2 has unloaded container_85 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 315.3299999994553 min, crane_2 picked up container_86.
+Time: 315.3299999994553 min, truck_3 has reached back to the terminal.
+Time: 318.1009999993898 min, truck_1 has dropped the container_105 at the yard block and is heading back to the terminal.
+Time: 318.1009999993898 min, crane_1 has unloaded container_106 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 318.10199999938976 min, crane_1 picked up container_107.
+Time: 318.10199999938976 min, truck_1 has reached back to the terminal.
+Time: 318.33099999938435 min, crane_2 has unloaded container_86 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 318.33099999938435 min, crane_2 picked up container_87.
+Time: 318.33099999938435 min, truck_2 has dropped the container_85 at the yard block and is heading back to the terminal.
+Time: 318.3319999993843 min, truck_2 has reached back to the terminal.
+Time: 321.1019999993188 min, truck_3 has dropped the container_106 at the yard block and is heading back to the terminal.
+Time: 321.1029999993188 min, crane_1 has unloaded container_107 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 321.1029999993188 min, truck_3 has reached back to the terminal.
+Time: 321.1039999993188 min, crane_1 picked up container_108.
+Time: 321.3319999993134 min, truck_1 has dropped the container_86 at the yard block and is heading back to the terminal.
+Time: 321.3319999993134 min, crane_2 has unloaded container_87 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 321.33299999931336 min, truck_1 has reached back to the terminal.
+Time: 321.33299999931336 min, crane_2 picked up container_88.
+Time: 324.10399999924783 min, truck_2 has dropped the container_107 at the yard block and is heading back to the terminal.
+Time: 324.1049999992478 min, crane_1 has unloaded container_108 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 324.1049999992478 min, crane_1 picked up container_109.
+Time: 324.1049999992478 min, truck_2 has reached back to the terminal.
+Time: 324.3329999992424 min, truck_3 has dropped the container_87 at the yard block and is heading back to the terminal.
+Time: 324.3339999992424 min, crane_2 has unloaded container_88 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 324.3339999992424 min, crane_2 picked up container_89.
+Time: 324.3339999992424 min, truck_3 has reached back to the terminal.
+Time: 327.10599999917684 min, truck_1 has dropped the container_108 at the yard block and is heading back to the terminal.
+Time: 327.10599999917684 min, crane_1 has unloaded container_109 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 327.1069999991768 min, crane_1 picked up container_110.
+Time: 327.1069999991768 min, truck_1 has reached back to the terminal.
+Time: 327.33499999917143 min, crane_2 has unloaded container_89 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 327.33499999917143 min, crane_2 picked up container_90.
+Time: 327.33499999917143 min, truck_2 has dropped the container_88 at the yard block and is heading back to the terminal.
+Time: 327.3359999991714 min, truck_2 has reached back to the terminal.
+Time: 330.1069999991059 min, truck_3 has dropped the container_109 at the yard block and is heading back to the terminal.
+Time: 330.10799999910586 min, crane_1 has unloaded container_110 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 330.10799999910586 min, truck_3 has reached back to the terminal.
+Time: 330.10899999910583 min, crane_1 picked up container_111.
+Time: 330.33599999910047 min, truck_1 has dropped the container_89 at the yard block and is heading back to the terminal.
+Time: 330.33599999910047 min, crane_2 has unloaded container_90 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 330.33699999910044 min, truck_1 has reached back to the terminal.
+Time: 330.33699999910044 min, crane_2 picked up container_91.
+Time: 333.1089999990349 min, truck_2 has dropped the container_110 at the yard block and is heading back to the terminal.
+Time: 333.10999999903487 min, crane_1 has unloaded container_111 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 333.10999999903487 min, crane_1 picked up container_112.
+Time: 333.10999999903487 min, truck_2 has reached back to the terminal.
+Time: 333.3369999990295 min, truck_3 has dropped the container_90 at the yard block and is heading back to the terminal.
+Time: 333.3379999990295 min, crane_2 has unloaded container_91 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 333.3379999990295 min, crane_2 picked up container_92.
+Time: 333.3379999990295 min, truck_3 has reached back to the terminal.
+Time: 336.1109999989639 min, truck_1 has dropped the container_111 at the yard block and is heading back to the terminal.
+Time: 336.1109999989639 min, crane_1 has unloaded container_112 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 336.1119999989639 min, crane_1 picked up container_113.
+Time: 336.1119999989639 min, truck_1 has reached back to the terminal.
+Time: 336.3389999989585 min, crane_2 has unloaded container_92 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 336.3389999989585 min, crane_2 picked up container_93.
+Time: 336.3389999989585 min, truck_2 has dropped the container_91 at the yard block and is heading back to the terminal.
+Time: 336.3399999989585 min, truck_2 has reached back to the terminal.
+Time: 339.11199999889294 min, truck_3 has dropped the container_112 at the yard block and is heading back to the terminal.
+Time: 339.1129999988929 min, crane_1 has unloaded container_113 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 339.1129999988929 min, truck_3 has reached back to the terminal.
+Time: 339.1139999988929 min, crane_1 picked up container_114.
+Time: 339.33999999888755 min, truck_1 has dropped the container_92 at the yard block and is heading back to the terminal.
+Time: 339.33999999888755 min, crane_2 has unloaded container_93 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 339.3409999988875 min, truck_1 has reached back to the terminal.
+Time: 339.3409999988875 min, crane_2 picked up container_94.
+Time: 342.11399999882195 min, truck_2 has dropped the container_113 at the yard block and is heading back to the terminal.
+Time: 342.11499999882193 min, crane_1 has unloaded container_114 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 342.11499999882193 min, crane_1 picked up container_115.
+Time: 342.11499999882193 min, truck_2 has reached back to the terminal.
+Time: 342.3409999988166 min, truck_3 has dropped the container_93 at the yard block and is heading back to the terminal.
+Time: 342.34199999881656 min, crane_2 has unloaded container_94 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 342.34199999881656 min, crane_2 picked up container_95.
+Time: 342.34199999881656 min, truck_3 has reached back to the terminal.
+Time: 345.11599999875097 min, truck_1 has dropped the container_114 at the yard block and is heading back to the terminal.
+Time: 345.11599999875097 min, crane_1 has unloaded container_115 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 345.11699999875094 min, crane_1 picked up container_116.
+Time: 345.11699999875094 min, truck_1 has reached back to the terminal.
+Time: 345.3429999987456 min, crane_2 has unloaded container_95 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 345.3429999987456 min, crane_2 picked up container_96.
+Time: 345.3429999987456 min, truck_2 has dropped the container_94 at the yard block and is heading back to the terminal.
+Time: 345.3439999987456 min, truck_2 has reached back to the terminal.
+Time: 348.11699999868 min, truck_3 has dropped the container_115 at the yard block and is heading back to the terminal.
+Time: 348.11799999868 min, crane_1 has unloaded container_116 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 348.11799999868 min, truck_3 has reached back to the terminal.
+Time: 348.11899999867995 min, crane_1 picked up container_117.
+Time: 348.34399999867463 min, truck_1 has dropped the container_95 at the yard block and is heading back to the terminal.
+Time: 348.34399999867463 min, crane_2 has unloaded container_96 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 348.3449999986746 min, truck_1 has reached back to the terminal.
+Time: 348.3449999986746 min, crane_2 picked up container_97.
+Time: 351.118999998609 min, truck_2 has dropped the container_116 at the yard block and is heading back to the terminal.
+Time: 351.119999998609 min, crane_1 has unloaded container_117 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 351.119999998609 min, crane_1 picked up container_118.
+Time: 351.119999998609 min, truck_2 has reached back to the terminal.
+Time: 351.34499999860367 min, truck_3 has dropped the container_96 at the yard block and is heading back to the terminal.
+Time: 351.34599999860365 min, crane_2 has unloaded container_97 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 351.34599999860365 min, crane_2 picked up container_98.
+Time: 351.34599999860365 min, truck_3 has reached back to the terminal.
+Time: 354.120999998538 min, truck_1 has dropped the container_117 at the yard block and is heading back to the terminal.
+Time: 354.120999998538 min, crane_1 has unloaded container_118 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 354.121999998538 min, crane_1 picked up container_119.
+Time: 354.121999998538 min, truck_1 has reached back to the terminal.
+Time: 354.3469999985327 min, crane_2 has unloaded container_98 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 354.3469999985327 min, crane_2 picked up container_99.
+Time: 354.3469999985327 min, truck_2 has dropped the container_97 at the yard block and is heading back to the terminal.
+Time: 354.34799999853266 min, truck_2 has reached back to the terminal.
+Time: 357.12199999846706 min, truck_3 has dropped the container_118 at the yard block and is heading back to the terminal.
+Time: 357.12299999846704 min, crane_1 has unloaded container_119 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 357.12299999846704 min, truck_3 has reached back to the terminal.
+Time: 357.123999998467 min, crane_1 picked up container_120.
+Time: 357.3479999984617 min, truck_1 has dropped the container_98 at the yard block and is heading back to the terminal.
+Time: 357.3479999984617 min, crane_2 has unloaded container_99 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 357.3489999984617 min, truck_1 has reached back to the terminal.
+Time: 357.3489999984617 min, crane_2 picked up container_100.
+Time: 360.1239999983961 min, truck_2 has dropped the container_119 at the yard block and is heading back to the terminal.
+Time: 360.12499999839605 min, crane_1 has unloaded container_120 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 360.12499999839605 min, crane_1 picked up container_121.
+Time: 360.12499999839605 min, truck_2 has reached back to the terminal.
+Time: 360.34899999839075 min, truck_3 has dropped the container_99 at the yard block and is heading back to the terminal.
+Time: 360.34999999839073 min, crane_2 has unloaded container_100 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 360.34999999839073 min, crane_2 picked up container_101.
+Time: 360.34999999839073 min, truck_3 has reached back to the terminal.
+Time: 363.1259999983251 min, truck_1 has dropped the container_120 at the yard block and is heading back to the terminal.
+Time: 363.1259999983251 min, crane_1 has unloaded container_121 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 363.12699999832506 min, crane_1 picked up container_122.
+Time: 363.12699999832506 min, truck_1 has reached back to the terminal.
+Time: 363.35099999831976 min, crane_2 has unloaded container_101 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 363.35099999831976 min, crane_2 picked up container_102.
+Time: 363.35099999831976 min, truck_2 has dropped the container_100 at the yard block and is heading back to the terminal.
+Time: 363.35199999831974 min, truck_2 has reached back to the terminal.
+Time: 366.1269999982541 min, truck_3 has dropped the container_121 at the yard block and is heading back to the terminal.
+Time: 366.1279999982541 min, crane_1 has unloaded container_122 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 366.1279999982541 min, truck_3 has reached back to the terminal.
+Time: 366.1289999982541 min, crane_1 picked up container_123.
+Time: 366.3519999982488 min, truck_1 has dropped the container_101 at the yard block and is heading back to the terminal.
+Time: 366.3519999982488 min, crane_2 has unloaded container_102 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 366.3529999982488 min, truck_1 has reached back to the terminal.
+Time: 366.3529999982488 min, crane_2 picked up container_103.
+Time: 369.12899999818313 min, truck_2 has dropped the container_122 at the yard block and is heading back to the terminal.
+Time: 369.1299999981831 min, crane_1 has unloaded container_123 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 369.1299999981831 min, crane_1 picked up container_124.
+Time: 369.1299999981831 min, truck_2 has reached back to the terminal.
+Time: 369.35299999817784 min, truck_3 has dropped the container_102 at the yard block and is heading back to the terminal.
+Time: 369.3539999981778 min, crane_2 has unloaded container_103 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 369.3539999981778 min, crane_2 picked up container_104.
+Time: 369.3539999981778 min, truck_3 has reached back to the terminal.
+Time: 372.13099999811215 min, truck_1 has dropped the container_123 at the yard block and is heading back to the terminal.
+Time: 372.13099999811215 min, crane_1 has unloaded container_124 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 372.1319999981121 min, crane_1 picked up container_125.
+Time: 372.1319999981121 min, truck_1 has reached back to the terminal.
+Time: 372.35499999810685 min, crane_2 has unloaded container_104 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 372.35499999810685 min, crane_2 picked up container_105.
+Time: 372.35499999810685 min, truck_2 has dropped the container_103 at the yard block and is heading back to the terminal.
+Time: 372.3559999981068 min, truck_2 has reached back to the terminal.
+Time: 375.1319999980412 min, truck_3 has dropped the container_124 at the yard block and is heading back to the terminal.
+Time: 375.13299999804116 min, crane_1 has unloaded container_125 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 375.13299999804116 min, truck_3 has reached back to the terminal.
+Time: 375.13399999804113 min, crane_1 picked up container_126.
+Time: 375.3559999980359 min, truck_1 has dropped the container_104 at the yard block and is heading back to the terminal.
+Time: 375.3559999980359 min, crane_2 has unloaded container_105 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 375.35699999803586 min, truck_1 has reached back to the terminal.
+Time: 375.35699999803586 min, crane_2 picked up container_106.
+Time: 378.1339999979702 min, truck_2 has dropped the container_125 at the yard block and is heading back to the terminal.
+Time: 378.13499999797017 min, crane_1 has unloaded container_126 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 378.13499999797017 min, crane_1 picked up container_127.
+Time: 378.13499999797017 min, truck_2 has reached back to the terminal.
+Time: 378.3569999979649 min, truck_3 has dropped the container_105 at the yard block and is heading back to the terminal.
+Time: 378.3579999979649 min, crane_2 has unloaded container_106 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 378.3579999979649 min, crane_2 picked up container_107.
+Time: 378.3579999979649 min, truck_3 has reached back to the terminal.
+Time: 381.1359999978992 min, truck_1 has dropped the container_126 at the yard block and is heading back to the terminal.
+Time: 381.1359999978992 min, crane_1 has unloaded container_127 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 381.1369999978992 min, crane_1 picked up container_128.
+Time: 381.1369999978992 min, truck_1 has reached back to the terminal.
+Time: 381.35899999789393 min, crane_2 has unloaded container_107 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 381.35899999789393 min, crane_2 picked up container_108.
+Time: 381.35899999789393 min, truck_2 has dropped the container_106 at the yard block and is heading back to the terminal.
+Time: 381.3599999978939 min, truck_2 has reached back to the terminal.
+Time: 384.13699999782824 min, truck_3 has dropped the container_127 at the yard block and is heading back to the terminal.
+Time: 384.1379999978282 min, crane_1 has unloaded container_128 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 384.1379999978282 min, truck_3 has reached back to the terminal.
+Time: 384.1389999978282 min, crane_1 picked up container_129.
+Time: 384.35999999782297 min, truck_1 has dropped the container_107 at the yard block and is heading back to the terminal.
+Time: 384.35999999782297 min, crane_2 has unloaded container_108 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 384.36099999782294 min, truck_1 has reached back to the terminal.
+Time: 384.36099999782294 min, crane_2 picked up container_109.
+Time: 387.13899999775725 min, truck_2 has dropped the container_128 at the yard block and is heading back to the terminal.
+Time: 387.13999999775723 min, crane_1 has unloaded container_129 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 387.13999999775723 min, crane_1 picked up container_130.
+Time: 387.13999999775723 min, truck_2 has reached back to the terminal.
+Time: 387.360999997752 min, truck_3 has dropped the container_108 at the yard block and is heading back to the terminal.
+Time: 387.361999997752 min, crane_2 has unloaded container_109 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 387.361999997752 min, crane_2 picked up container_110.
+Time: 387.361999997752 min, truck_3 has reached back to the terminal.
+Time: 390.14099999768627 min, truck_1 has dropped the container_129 at the yard block and is heading back to the terminal.
+Time: 390.14099999768627 min, crane_1 has unloaded container_130 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 390.14199999768624 min, crane_1 picked up container_131.
+Time: 390.14199999768624 min, truck_1 has reached back to the terminal.
+Time: 390.362999997681 min, crane_2 has unloaded container_110 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 390.362999997681 min, crane_2 picked up container_111.
+Time: 390.362999997681 min, truck_2 has dropped the container_109 at the yard block and is heading back to the terminal.
+Time: 390.363999997681 min, truck_2 has reached back to the terminal.
+Time: 393.1419999976153 min, truck_3 has dropped the container_130 at the yard block and is heading back to the terminal.
+Time: 393.1429999976153 min, crane_1 has unloaded container_131 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 393.1429999976153 min, truck_3 has reached back to the terminal.
+Time: 393.14399999761525 min, crane_1 picked up container_132.
+Time: 393.36399999761005 min, truck_1 has dropped the container_110 at the yard block and is heading back to the terminal.
+Time: 393.36399999761005 min, crane_2 has unloaded container_111 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 393.36499999761 min, truck_1 has reached back to the terminal.
+Time: 393.36499999761 min, crane_2 picked up container_112.
+Time: 396.1439999975443 min, truck_2 has dropped the container_131 at the yard block and is heading back to the terminal.
+Time: 396.1449999975443 min, crane_1 has unloaded container_132 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 396.1449999975443 min, crane_1 picked up container_133.
+Time: 396.1449999975443 min, truck_2 has reached back to the terminal.
+Time: 396.3649999975391 min, truck_3 has dropped the container_111 at the yard block and is heading back to the terminal.
+Time: 396.36599999753906 min, crane_2 has unloaded container_112 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 396.36599999753906 min, crane_2 picked up container_113.
+Time: 396.36599999753906 min, truck_3 has reached back to the terminal.
+Time: 399.1459999974733 min, truck_1 has dropped the container_132 at the yard block and is heading back to the terminal.
+Time: 399.1459999974733 min, crane_1 has unloaded container_133 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 399.1469999974733 min, crane_1 picked up container_134.
+Time: 399.1469999974733 min, truck_1 has reached back to the terminal.
+Time: 399.3669999974681 min, crane_2 has unloaded container_113 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 399.3669999974681 min, crane_2 picked up container_114.
+Time: 399.3669999974681 min, truck_2 has dropped the container_112 at the yard block and is heading back to the terminal.
+Time: 399.3679999974681 min, truck_2 has reached back to the terminal.
+Time: 402.14699999740236 min, truck_3 has dropped the container_133 at the yard block and is heading back to the terminal.
+Time: 402.14799999740234 min, crane_1 has unloaded container_134 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 402.14799999740234 min, truck_3 has reached back to the terminal.
+Time: 402.1489999974023 min, crane_1 picked up container_135.
+Time: 402.36799999739713 min, truck_1 has dropped the container_113 at the yard block and is heading back to the terminal.
+Time: 402.36799999739713 min, crane_2 has unloaded container_114 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 402.3689999973971 min, truck_1 has reached back to the terminal.
+Time: 402.3689999973971 min, crane_2 picked up container_115.
+Time: 405.1489999973314 min, truck_2 has dropped the container_134 at the yard block and is heading back to the terminal.
+Time: 405.14999999733135 min, crane_1 has unloaded container_135 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 405.14999999733135 min, crane_1 picked up container_136.
+Time: 405.14999999733135 min, truck_2 has reached back to the terminal.
+Time: 405.36899999732617 min, truck_3 has dropped the container_114 at the yard block and is heading back to the terminal.
+Time: 405.36999999732615 min, crane_2 has unloaded container_115 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 405.36999999732615 min, crane_2 picked up container_116.
+Time: 405.36999999732615 min, truck_3 has reached back to the terminal.
+Time: 408.1509999972604 min, truck_1 has dropped the container_135 at the yard block and is heading back to the terminal.
+Time: 408.1509999972604 min, crane_1 has unloaded container_136 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 408.15199999726036 min, crane_1 picked up container_137.
+Time: 408.15199999726036 min, truck_1 has reached back to the terminal.
+Time: 408.3709999972552 min, crane_2 has unloaded container_116 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 408.3709999972552 min, crane_2 picked up container_117.
+Time: 408.3709999972552 min, truck_2 has dropped the container_115 at the yard block and is heading back to the terminal.
+Time: 408.37199999725516 min, truck_2 has reached back to the terminal.
+Time: 411.1519999971894 min, truck_3 has dropped the container_136 at the yard block and is heading back to the terminal.
+Time: 411.1529999971894 min, crane_1 has unloaded container_137 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 411.1529999971894 min, truck_3 has reached back to the terminal.
+Time: 411.1539999971894 min, crane_1 picked up container_138.
+Time: 411.3719999971842 min, truck_1 has dropped the container_116 at the yard block and is heading back to the terminal.
+Time: 411.3719999971842 min, crane_2 has unloaded container_117 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 411.3729999971842 min, truck_1 has reached back to the terminal.
+Time: 411.3729999971842 min, crane_2 picked up container_118.
+Time: 414.15399999711843 min, truck_2 has dropped the container_137 at the yard block and is heading back to the terminal.
+Time: 414.1549999971184 min, crane_1 has unloaded container_138 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 414.1549999971184 min, crane_1 picked up container_139.
+Time: 414.1549999971184 min, truck_2 has reached back to the terminal.
+Time: 414.37299999711325 min, truck_3 has dropped the container_117 at the yard block and is heading back to the terminal.
+Time: 414.37399999711323 min, crane_2 has unloaded container_118 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 414.37399999711323 min, crane_2 picked up container_119.
+Time: 414.37399999711323 min, truck_3 has reached back to the terminal.
+Time: 417.15599999704745 min, truck_1 has dropped the container_138 at the yard block and is heading back to the terminal.
+Time: 417.15599999704745 min, crane_1 has unloaded container_139 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 417.1569999970474 min, crane_1 picked up container_140.
+Time: 417.1569999970474 min, truck_1 has reached back to the terminal.
+Time: 417.37499999704227 min, crane_2 has unloaded container_119 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 417.37499999704227 min, crane_2 picked up container_120.
+Time: 417.37499999704227 min, truck_2 has dropped the container_118 at the yard block and is heading back to the terminal.
+Time: 417.37599999704224 min, truck_2 has reached back to the terminal.
+Time: 420.1569999969765 min, truck_3 has dropped the container_139 at the yard block and is heading back to the terminal.
+Time: 420.15799999697646 min, crane_1 has unloaded container_140 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 420.15799999697646 min, truck_3 has reached back to the terminal.
+Time: 420.15899999697643 min, crane_1 picked up container_141.
+Time: 420.3759999969713 min, truck_1 has dropped the container_119 at the yard block and is heading back to the terminal.
+Time: 420.3759999969713 min, crane_2 has unloaded container_120 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 420.3769999969713 min, truck_1 has reached back to the terminal.
+Time: 420.3769999969713 min, crane_2 picked up container_121.
+Time: 423.1589999969055 min, truck_2 has dropped the container_140 at the yard block and is heading back to the terminal.
+Time: 423.15999999690547 min, crane_1 has unloaded container_141 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 423.15999999690547 min, crane_1 picked up container_142.
+Time: 423.15999999690547 min, truck_2 has reached back to the terminal.
+Time: 423.37699999690034 min, truck_3 has dropped the container_120 at the yard block and is heading back to the terminal.
+Time: 423.3779999969003 min, crane_2 has unloaded container_121 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 423.3779999969003 min, crane_2 picked up container_122.
+Time: 423.3779999969003 min, truck_3 has reached back to the terminal.
+Time: 426.1609999968345 min, truck_1 has dropped the container_141 at the yard block and is heading back to the terminal.
+Time: 426.1609999968345 min, crane_1 has unloaded container_142 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 426.1619999968345 min, crane_1 picked up container_143.
+Time: 426.1619999968345 min, truck_1 has reached back to the terminal.
+Time: 426.37899999682935 min, crane_2 has unloaded container_122 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 426.37899999682935 min, crane_2 picked up container_123.
+Time: 426.37899999682935 min, truck_2 has dropped the container_121 at the yard block and is heading back to the terminal.
+Time: 426.3799999968293 min, truck_2 has reached back to the terminal.
+Time: 429.16199999676354 min, truck_3 has dropped the container_142 at the yard block and is heading back to the terminal.
+Time: 429.1629999967635 min, crane_1 has unloaded container_143 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 429.1629999967635 min, truck_3 has reached back to the terminal.
+Time: 429.1639999967635 min, crane_1 picked up container_144.
+Time: 429.3799999967584 min, truck_1 has dropped the container_122 at the yard block and is heading back to the terminal.
+Time: 429.3799999967584 min, crane_2 has unloaded container_123 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 429.38099999675836 min, truck_1 has reached back to the terminal.
+Time: 429.38099999675836 min, crane_2 picked up container_124.
+Time: 432.16399999669255 min, truck_2 has dropped the container_143 at the yard block and is heading back to the terminal.
+Time: 432.16499999669253 min, crane_1 has unloaded container_144 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 432.16499999669253 min, crane_1 picked up container_145.
+Time: 432.16499999669253 min, truck_2 has reached back to the terminal.
+Time: 432.3809999966874 min, truck_3 has dropped the container_123 at the yard block and is heading back to the terminal.
+Time: 432.3819999966874 min, crane_2 has unloaded container_124 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 432.3819999966874 min, crane_2 picked up container_125.
+Time: 432.3819999966874 min, truck_3 has reached back to the terminal.
+Time: 435.16599999662157 min, truck_1 has dropped the container_144 at the yard block and is heading back to the terminal.
+Time: 435.16599999662157 min, crane_1 has unloaded container_145 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 435.16699999662154 min, crane_1 picked up container_146.
+Time: 435.16699999662154 min, truck_1 has reached back to the terminal.
+Time: 435.38299999661643 min, crane_2 has unloaded container_125 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 435.38299999661643 min, crane_2 picked up container_126.
+Time: 435.38299999661643 min, truck_2 has dropped the container_124 at the yard block and is heading back to the terminal.
+Time: 435.3839999966164 min, truck_2 has reached back to the terminal.
+Time: 438.1669999965506 min, truck_3 has dropped the container_145 at the yard block and is heading back to the terminal.
+Time: 438.1679999965506 min, crane_1 has unloaded container_146 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 438.1679999965506 min, truck_3 has reached back to the terminal.
+Time: 438.16899999655055 min, crane_1 picked up container_147.
+Time: 438.38399999654547 min, truck_1 has dropped the container_125 at the yard block and is heading back to the terminal.
+Time: 438.38399999654547 min, crane_2 has unloaded container_126 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 438.38499999654545 min, truck_1 has reached back to the terminal.
+Time: 438.38499999654545 min, crane_2 picked up container_127.
+Time: 441.1689999964796 min, truck_2 has dropped the container_146 at the yard block and is heading back to the terminal.
+Time: 441.1699999964796 min, crane_1 has unloaded container_147 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 441.1699999964796 min, crane_1 picked up container_148.
+Time: 441.1699999964796 min, truck_2 has reached back to the terminal.
+Time: 441.3849999964745 min, truck_3 has dropped the container_126 at the yard block and is heading back to the terminal.
+Time: 441.3859999964745 min, crane_2 has unloaded container_127 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 441.3859999964745 min, crane_2 picked up container_128.
+Time: 441.3859999964745 min, truck_3 has reached back to the terminal.
+Time: 444.1709999964086 min, truck_1 has dropped the container_147 at the yard block and is heading back to the terminal.
+Time: 444.1709999964086 min, crane_1 has unloaded container_148 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 444.1719999964086 min, crane_1 picked up container_149.
+Time: 444.1719999964086 min, truck_1 has reached back to the terminal.
+Time: 444.3869999964035 min, crane_2 has unloaded container_128 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 444.3869999964035 min, crane_2 picked up container_129.
+Time: 444.3869999964035 min, truck_2 has dropped the container_127 at the yard block and is heading back to the terminal.
+Time: 444.3879999964035 min, truck_2 has reached back to the terminal.
+Time: 447.17199999633766 min, truck_3 has dropped the container_148 at the yard block and is heading back to the terminal.
+Time: 447.17299999633764 min, crane_1 has unloaded container_149 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 447.17299999633764 min, truck_3 has reached back to the terminal.
+Time: 447.1739999963376 min, crane_1 picked up container_150.
+Time: 447.1749999963376 min, vessel_1 departs now.
+Time: 447.38799999633255 min, truck_1 has dropped the container_128 at the yard block and is heading back to the terminal.
+Time: 447.38799999633255 min, crane_2 has unloaded container_129 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 447.38899999633253 min, crane_2 picked up container_130.
+Time: 447.38899999633253 min, truck_1 has reached back to the terminal.
+Time: 450.1739999962667 min, truck_2 has dropped the container_149 at the yard block and is heading back to the terminal.
+Time: 450.17499999626665 min, crane_1 has unloaded container_150 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 450.17499999626665 min, crane_1 is free now.
+Time: 450.17499999626665 min, truck_2 has reached back to the terminal.
+Time: 450.3889999962616 min, truck_3 has dropped the container_129 at the yard block and is heading back to the terminal.
+Time: 450.38999999626157 min, crane_2 has unloaded container_130 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 450.38999999626157 min, truck_3 has reached back to the terminal.
+Time: 450.39099999626154 min, crane_2 picked up container_131.
+Time: 453.1759999961957 min, truck_1 has dropped the container_150 at the yard block and is heading back to the terminal.
+Time: 453.17699999619566 min, truck_1 has reached back to the terminal.
+Time: 453.3909999961906 min, truck_2 has dropped the container_130 at the yard block and is heading back to the terminal.
+Time: 453.3919999961906 min, crane_2 has unloaded container_131 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 453.3919999961906 min, crane_2 picked up container_132.
+Time: 453.3919999961906 min, truck_2 has reached back to the terminal.
+Time: 456.3929999961196 min, crane_2 has unloaded container_132 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 456.3929999961196 min, truck_1 has dropped the container_131 at the yard block and is heading back to the terminal.
+Time: 456.3939999961196 min, crane_2 picked up container_133.
+Time: 456.3939999961196 min, truck_1 has reached back to the terminal.
+Time: 459.39399999604865 min, truck_2 has dropped the container_132 at the yard block and is heading back to the terminal.
+Time: 459.3949999960486 min, crane_2 has unloaded container_133 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 459.3949999960486 min, crane_2 picked up container_134.
+Time: 459.3949999960486 min, truck_2 has reached back to the terminal.
+Time: 462.39599999597766 min, crane_2 has unloaded container_134 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 462.39599999597766 min, truck_1 has dropped the container_133 at the yard block and is heading back to the terminal.
+Time: 462.39699999597764 min, crane_2 picked up container_135.
+Time: 462.39699999597764 min, truck_1 has reached back to the terminal.
+Time: 465.3969999959067 min, truck_2 has dropped the container_134 at the yard block and is heading back to the terminal.
+Time: 465.3979999959067 min, crane_2 has unloaded container_135 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 465.3979999959067 min, crane_2 picked up container_136.
+Time: 465.3979999959067 min, truck_2 has reached back to the terminal.
+Time: 468.3989999958357 min, crane_2 has unloaded container_136 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 468.3989999958357 min, truck_1 has dropped the container_135 at the yard block and is heading back to the terminal.
+Time: 468.3999999958357 min, crane_2 picked up container_137.
+Time: 468.3999999958357 min, truck_1 has reached back to the terminal.
+Time: 471.39999999576474 min, truck_2 has dropped the container_136 at the yard block and is heading back to the terminal.
+Time: 471.4009999957647 min, crane_2 has unloaded container_137 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 471.4009999957647 min, crane_2 picked up container_138.
+Time: 471.4009999957647 min, truck_2 has reached back to the terminal.
+Time: 474.40199999569376 min, crane_2 has unloaded container_138 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 474.40199999569376 min, truck_1 has dropped the container_137 at the yard block and is heading back to the terminal.
+Time: 474.40299999569373 min, crane_2 picked up container_139.
+Time: 474.40299999569373 min, truck_1 has reached back to the terminal.
+Time: 477.4029999956228 min, truck_2 has dropped the container_138 at the yard block and is heading back to the terminal.
+Time: 477.40399999562277 min, crane_2 has unloaded container_139 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 477.40399999562277 min, crane_2 picked up container_140.
+Time: 477.40399999562277 min, truck_2 has reached back to the terminal.
+Time: 480.4049999955518 min, crane_2 has unloaded container_140 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 480.4049999955518 min, truck_1 has dropped the container_139 at the yard block and is heading back to the terminal.
+Time: 480.4059999955518 min, crane_2 picked up container_141.
+Time: 480.4059999955518 min, truck_1 has reached back to the terminal.
+Time: 483.40599999548084 min, truck_2 has dropped the container_140 at the yard block and is heading back to the terminal.
+Time: 483.4069999954808 min, crane_2 has unloaded container_141 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 483.4069999954808 min, crane_2 picked up container_142.
+Time: 483.4069999954808 min, truck_2 has reached back to the terminal.
+Time: 486.40799999540985 min, crane_2 has unloaded container_142 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 486.40799999540985 min, truck_1 has dropped the container_141 at the yard block and is heading back to the terminal.
+Time: 486.40899999540983 min, crane_2 picked up container_143.
+Time: 486.40899999540983 min, truck_1 has reached back to the terminal.
+Time: 488.9544015255919 min, vessel_3 arrived.
+Time: 488.9544015255919 min, berth_1 assigned to vessel_3.
+Time: 488.9544015255919 min, crane_1 assigned to vessel_3.
+Time: 488.9549999953496 min, crane_1 picked up container_1.
+Time: 489.4089999953389 min, truck_2 has dropped the container_142 at the yard block and is heading back to the terminal.
+Time: 489.40999999533886 min, crane_2 has unloaded container_143 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 489.40999999533886 min, crane_2 picked up container_144.
+Time: 489.40999999533886 min, truck_2 has reached back to the terminal.
+Time: 491.95599999527866 min, crane_1 has unloaded container_1 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 491.95699999527864 min, crane_1 picked up container_2.
+Time: 492.4109999952679 min, truck_1 has dropped the container_143 at the yard block and is heading back to the terminal.
+Time: 492.4109999952679 min, crane_2 has unloaded container_144 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 492.4119999952679 min, truck_1 has reached back to the terminal.
+Time: 492.4119999952679 min, crane_2 picked up container_145.
+Time: 494.9569999952077 min, truck_2 has dropped the container_1 at the yard block and is heading back to the terminal.
+Time: 494.9579999952077 min, crane_1 has unloaded container_2 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 494.9579999952077 min, crane_1 picked up container_3.
+Time: 494.9579999952077 min, truck_2 has reached back to the terminal.
+Time: 495.41199999519694 min, truck_3 has dropped the container_144 at the yard block and is heading back to the terminal.
+Time: 495.4129999951969 min, crane_2 has unloaded container_145 to the truck_2 and truck_2 is transporting it to the yard block.
+Time: 495.4129999951969 min, crane_2 picked up container_146.
+Time: 495.4129999951969 min, truck_3 has reached back to the terminal.
+Time: 497.9589999951367 min, truck_1 has dropped the container_2 at the yard block and is heading back to the terminal.
+Time: 497.9589999951367 min, crane_1 has unloaded container_3 to the truck_3 and truck_3 is transporting it to the yard block.
+Time: 497.9599999951367 min, crane_1 picked up container_4.
+Time: 497.9599999951367 min, truck_1 has reached back to the terminal.
+Time: 498.41399999512595 min, crane_2 has unloaded container_146 to the truck_1 and truck_1 is transporting it to the yard block.
+Time: 498.41399999512595 min, crane_2 picked up container_147.
+Time: 498.41399999512595 min, truck_2 has dropped the container_145 at the yard block and is heading back to the terminal.
+Time: 498.4149999951259 min, truck_2 has reached back to the terminal.

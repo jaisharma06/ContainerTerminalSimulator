@@ -1,105 +1,44 @@
+# import for sys to set the root directory of the project to access the absolute path of the subdirectories.
 import sys
+# replace the 'G:\Projects\Python\ContainerTerminalSimulator' path with the absolute path of the root directory in the machine to set the root directory of the project.
 sys.path.append('G:\Projects\Python\ContainerTerminalSimulator')
 
-from random import expovariate
+# import of required python classes which are accessed.
 from simpy import Environment
 from Entities.container_terminal import ContainerTerminal
-from Resources.vessel import Vessel
-from Resources.crane import QuayCrane
-from Entities.container import Container
-from typing import Any, List
-from Resources.berth import Berth
 from Configurations.config import Config
 
 
+
+# Define and initialize the simpy environment.
 env: Environment = Environment()
+# setup terminal according to the configuration.
 terminal: ContainerTerminal = ContainerTerminal(
     env, Config.BERTH_COUNT, Config.CRANE_COUNT, Config.TRUCK_COUNT)
 
 
-def update_vessel_queue(env: Environment, terminal: ContainerTerminal) -> Any:
-    vessel_id = 1
-    while True:
-        terminal.vessel_arrival(
-            vessel_id, env, Config.CONTAINERS_PER_VESSEL, Config.TIME_BETWEEN_VESSELS)
-        for berth in terminal.berths:
-            with berth.request() as req:
-                yield req
-                if (not berth.acquired):
-                    vessel: Vessel = terminal.vessels.pop(0)
-                    berth.assign_vessel(vessel)
-                    if (vessel.crane is None):
-                        for crane in terminal.cranes:
-                            with crane.resource.request() as req:
-                                yield req
-                                if (not crane.busy):
-                                    vessel.assign_crane(crane)
-                                    break
-                    break
-        vessel_id += 1
-        yield env.timeout(expovariate(1/Config.TIME_BETWEEN_VESSELS))
+def process_vessel_queue(env: Environment, terminal: ContainerTerminal):
+    """
+    process to simulate the container terminal
+    - update_vessel_queue: checks if a new vessel has arrived 
+        and if a new vessel has arrived then it adds it to a queue and assigns a berth and crane if berth and cranes are free on FIFO basis
+    - process_berth: checks if the vessel has any containers left, if there are no containers left then, updates the vessel status to depart else if there are
+        container then checks if the train assigned is free to pickup a container. in case, if train is free then the train picks up the container.
+    - drop_containers_to_trucks: Checks if a train is holding any container and is ready to drop that container in a truck, then checks if the truck is free to 
+        transport the container. If, a truck is free then the container is loaded inside the truck.
+    - unload_containers_to_block: After loading the container, the truck departs to drop the container at block and come back to the terminal afterwards.
 
-
-def process_vessel_queue(env: Environment, terminal: ContainerTerminal) -> Any:
+    @env: Simpy environment for the simulation
+    @terminal: virtual terminal which manages the resources.
+    """
     yield env.timeout(0)
-    env.process(update_vessel_queue(env, terminal))
-    env.process(process_berth(env, terminal, terminal.berths[0]))
-    env.process(drop_containers_to_truck(env, terminal))
-    env.process(unload_containers_to_block(env, terminal))
+    env.process(terminal.update_vessel_queue())
+    env.process(terminal.process_berth())
+    env.process(terminal.drop_containers_to_truck())
+    env.process(terminal.unload_containers_to_block())
 
 
-def process_berth(env: Environment, terminal: ContainerTerminal, berth: Berth) -> Any:
-    while True:
-        acquired_berths: List[Berth] = list(
-            filter(lambda berth: berth.acquired is True, terminal.berths))
-        if (len(acquired_berths) > 0):
-            for berth in acquired_berths:
-                with berth.request() as req_berth:
-                    yield req_berth
-                    process_berth(env, terminal, berth)
-                    vessel: Vessel = berth.vessel
-                    with vessel.request() as req_ves:
-                        yield req_ves
-                        crane: QuayCrane = vessel.crane
-                        if (vessel.get_remaining_container_count() > 0):
-                            if (crane.holding_container is None):
-                                container: Container = vessel.unload_container()
-                                crane.unload_container(container)
-                        else:
-                            vessel.release_crane()
-                            berth.release_vessel()
-        yield env.timeout(0.001)
-
-
-def drop_containers_to_truck(env: Environment, terminal: ContainerTerminal) -> Any:
-    while True:
-        for crane in terminal.cranes:
-            if (crane.holding_container):
-                if (crane.can_drop_container(Config.TIME_OF_CRANE_UNLOAD)):
-                    for truck in terminal.trucks:
-                        with truck.request() as req:
-                            yield req
-                            if (truck.busy is False):
-                                container: Container = crane.holding_container
-                                crane.load_container_to_truck()
-                                truck.transport_container(
-                                    crane.get_name(), container)
-                                crane.holding_container = None
-                                break
-        yield env.timeout(0.001)
-
-
-def unload_containers_to_block(env: Environment, terminal: ContainerTerminal) -> Any:
-    while True:
-        for truck in terminal.trucks:
-            with truck.request() as req:
-                yield req
-                if (truck.busy is True):
-                    if (truck.can_unload_container(Config.TRUCK_TRANSPORTATION_TIME)):
-                        truck.transported_container_back_to_terminal()
-
-        yield env.timeout(0.01)
-
-
+#Initializes the process of simulating a container terminal
 env.process(process_vessel_queue(env, terminal))
+#starts the actual process till provided time.
 env.run(until=Config.SIMULATION_TIME)

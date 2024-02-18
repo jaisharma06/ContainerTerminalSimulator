@@ -3,7 +3,7 @@ class Config:
     Configuration class for the simulation.
     Time is in minutes i.e. 1 unit is 1 minute
     """
-    SIMULATION_TIME: int = 1200  # Total simulation time.
+    SIMULATION_TIME: int = 500  # Total simulation time.
     CONTAINERS_PER_VESSEL: int = 150  # Number of containers in a vessel
     TOTAL_CRANES: int = 2  # Total number of cranes available at the terminal
     # Time taken by a train to pick up and drop off a container in a truck.
@@ -15,3 +15,5 @@ class Config:
     TRUCK_COUNT: int = 3  # Total number of trucks in the terminal
     # Time taken by a truck to transport a container to yard and come back to the terminal.
     TRUCK_TRANSPORTATION_TIME: int = 6
+    # Delay in timeout calls for allowing the processor to switch context.
+    DELAY_FOR_CONTEXT_SWITCHING: int = 0.001
